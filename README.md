@@ -46,7 +46,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lohithjalla&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lohith-jalla&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohithjalla&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith-jalla&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🧮 Detailed Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/lohithjalla?template=classic&base.activity=true&base.repositories=true&base.metadata=true&languages=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.indepth=true&languages.colors=github&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" />
+  <img src="https://metrics.lecoq.io/lohith-jalla?template=classic&base.activity=true&base.repositories=true&base.metadata=true&languages=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.indepth=true&languages.colors=github&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" />
 </p>
 ---
 
