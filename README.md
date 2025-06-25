@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lohith Jalla</h1>
-<h3 align="center">Aspiring Backend Developer | Java Enthusiast | DSA Warrior</h3>
+<h3 align="center">Aspiring Backend Developer | Java Enthusiast | DSA with Java</h3>
 
 ---
 
-- 🎓 **Year of Graduation:** 2026  
+- 🎓 **Year of Graduation:** 2026 CS
 - 📫 **How to reach me:** [lohithjalla@gmail.com](mailto:lohithjalla@gmail.com)
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/Lohith_jalla" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/lohith123?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Lohith_jalla?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 <p align="center">
   <a href="mailto:lohithjalla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/lohithjalla"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/lohith123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://leetcode.com/Lohith_jalla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
